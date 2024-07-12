@@ -1,0 +1,55 @@
+.navbar{
+    height: 5rem;
+    background-color: #eaeaea;
+}
+
+.qoute {
+    height: auto; 
+    width: 100vw; 
+    background-position: center;
+    position: relative;
+}
+
+.qoute img{
+    height: auto;
+    width: 100vw;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.link:hover{
+    text-decoration: underline;
+}
+
+.btn-lg{
+    width: 70%;
+    margin: auto;
+}
+
+#project .card{
+    height: 100%;
+    width: 100%;
+}
+
+/* footer */
+
+.f-info{
+    background-color: #222f3d;
+    color: #ddd;
+    height: 8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.white-link{
+    text-decoration: none;
+    color: #ddd;
+    margin-right: 2rem;
+}
+.f-info-socials .white-link:hover{
+    text-decoration: underline;
+}
